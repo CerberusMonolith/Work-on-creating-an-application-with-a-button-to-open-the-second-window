@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Lazutin\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\user\Desktop\Lazutin\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\user\Desktop\Lazutin\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\Window1.g.cs
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\Project1_MarkupCompile.cache
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\Project1_MarkupCompile.lref
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\Window1.baml
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\Project1.g.resources
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\user\Desktop\Lazutin\Project1\Project1\obj\Debug\Project1.pdb

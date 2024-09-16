@@ -1,0 +1,23 @@
+﻿<Window x:Class="Project1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Black">
+        <Button Content="Кнопка" Margin="0,201,0,0" Height="152" Width="280" Background="Black" Click="Button_Click" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="Red" FontSize="36" OpacityMask="Black" BorderBrush="Black"/>
+        <TextBox HorizontalAlignment="Left" Margin="292,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" RenderTransformOrigin="0.5,0.5" Height="118" BorderBrush="Black" Foreground="Red" TextChanged="TextBox_TextChanged" Background="Black" Text="Нажмите чтобы испугаться&#xD;&#xA;" FontFamily="Bell MT" FontSize="36" SelectionTextBrush="Black">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.017"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+
+    </Grid>
+</Window>
